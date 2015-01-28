@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20150128T042144Z" application="Evernote" version="Evernote Mac 6.0.5 (451190)">
+<note><title>Argonne Interactive Time-Varying Volume Visualization Proposal</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div>Volume rendering has been around for a while, and the most robust techniques have been around for a little while now. That story is old, nobody cares about data visualization thats small enough to run on a single cluster. Today, they want challenges, they want to grow. IN that case </div>
+</en-note>
+]]></content><created>20150128T041646Z</created><updated>20150128T042018Z</updated><tag>nii</tag><tag>time-varying</tag><tag>proposal</tag><tag>fmri</tag><tag>interactive</tag><tag>niftiviewer</tag><tag>argonne</tag><note-attributes><latitude>41.95202821325853</latitude><longitude>-87.65147113774887</longitude><altitude>183.4329071044922</altitude><author>kyle.almryde@gmail.com</author><source>desktop.mac</source><reminder-order>0</reminder-order></note-attributes></note>
+</en-export>
