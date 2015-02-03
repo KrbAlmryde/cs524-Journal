@@ -1,5 +1,7 @@
 ### Progress...
-![](Progress/01.png) ![](Progress/02.png) ![](Progress/03.png)
+![](Progress/01.png =100x)
+![](Progress/02.png =100x)
+![](Progress/03.png =100x)
 
 ### Questions I am currently asking myself
 * What kind of preprocessing should I be doing?
