@@ -121,13 +121,13 @@ def generateLUT(data):
     for k in data:
         if k < 50:
             lut[k] = [0.0, 0.0, 0.0]
-        elif k > 500 and k < 1500:
+        else:
             lut[k] = [rd.random(), rd.random(), rd.random()]
-    histo(lut.keys())
+    # histo(lut.keys())
 
     for k, v in lut.items():
         colorFunc.AddRGBPoint(k, v[0], v[1], v[2])
-        if k < 500 or k > 1500:
+        if k < 50:
             alphaFunc.AddPoint(k, 0.0)
         else:
             alphaFunc.AddPoint(k, rd.random())
@@ -163,6 +163,7 @@ def main():
     text = loadTextData('frankenstein')
 
     cData = buildMatrix(np.array([ord(c) for c in text]))
+    print cData
     # sData = buildMatrix(np.array(map(sumFunc, text.split())))
 
     # cData =
@@ -170,7 +171,7 @@ def main():
     # cData = np.append(cData, np.zeros(shape[-1]))
     # cData.shape = shape[0:3]
 
-    histo(cData, 100, (0, 1500))
+    # histo(cData, 100, (0, 1500))
     # For VTK to be able to use the data, it must be stored as a VTK-image.
     # This can be done by the vtkImageImport-class which imports raw data
     # and stores it.
@@ -245,9 +246,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-'''
-Mad Ramblings
-
-
-'''

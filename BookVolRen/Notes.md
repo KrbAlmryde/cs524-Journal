@@ -1,3 +1,6 @@
+### Progress...
+![alt text](Progress/01.png) ![alt text](Progress/02.png) ![alt text](Progress/03.png)
+
 ### Questions I am currently asking myself
 * What kind of preprocessing should I be doing?
 ..- That is, should I remove **stop words** or keep them?
