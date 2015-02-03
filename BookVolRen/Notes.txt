@@ -1,4 +1,4 @@
 This is an interesting project https://github.com/arski/Storyflow
 https://scholar.google.com/scholar?q=Storyflow&lr=
 http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6634164&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6634164
-http://xkcd.com/657/large/
+http://xkcd.com/657/
