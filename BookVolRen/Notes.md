@@ -1,7 +1,7 @@
 ### Progress...
-![](Progress/01.png =100x)
-![](Progress/02.png =100x)
-![](Progress/03.png =100x)
+![](Progress/01.png)
+![](Progress/02.png)
+![](Progress/03.png)
 
 ### Questions I am currently asking myself
 * What kind of preprocessing should I be doing?
@@ -42,27 +42,29 @@
 * Hover over the image for details
 ![StoryFlow](Images/448767229_640.jpg)
 ![Annotated StoryFlow](Images/LordoftheRings_HighRes.jpg)
-[The xkcd comic which inspired StoryFlow](http://xkcd.com/657/large/)
 A Sweet visualization from [nodus labs](www.noduslabs.com)
 ![](Images/tumblr_ltxs699Rcq1r4u08do1_1280.jpg)
 
 ---
 ### Some really sweet blogs and links to cool text based visualizations
-*[noduslabs](http://noduslabs.com/)
-*[textexture](http://textexture.com/index.php)
-*[perso](http://perso.ens-lyon.fr/adrien.barbaresi/blog/?p=1157)
-*[datamining](http://datamining.typepad.com/data_mining/dataviz/)
-*[meatballwiki](http://meatballwiki.org/wiki/TextVisualization)
-*[searchuserinterfaces](http://searchuserinterfaces.com/book/sui_ch10_visualization.html)
-*[usagainstthemachines](http://usagainstthemachines.com/2011/01/26/network-visualization/)
-*[gajitz](http://gajitz.com/information-city-digital-visualization-of-invisible-data-flow/)
-*[westgrid](https://www.westgrid.ca/research-showcase/susan_brown)
-*[vosviewer](http://www.vosviewer.com/Text-mining-and-visualization-using-VOSviewer)
-*[asis](http://www.asis.org/Publications/ARIST/vol39ZhuFigures.html)
-*[noumentalia](http://www.noumentalia.de/news/visual-text-analytics-using-semantic-networks-and-interactive-3d-visualization/)
+* [The xkcd comic which inspired StoryFlow](http://xkcd.com/657/large/)
+* [noduslabs](http://noduslabs.com/)
+* [textexture](http://textexture.com/index.php)
+* [perso](http://perso.ens-lyon.fr/adrien.barbaresi/blog/?p=1157)
+* [datamining](http://datamining.typepad.com/data_mining/dataviz/)
+* [meatballwiki](http://meatballwiki.org/wiki/TextVisualization)
+* [searchuserinterfaces](http://searchuserinterfaces.com/book/sui_ch10_visualization.html)
+* [usagainstthemachines](http://usagainstthemachines.com/2011/01/26/network-visualization/)
+* [gajitz](http://gajitz.com/information-city-digital-visualization-of-invisible-data-flow/)
+* [westgrid](https://www.westgrid.ca/research-showcase/susan_brown)
+* [vosviewer](http://www.vosviewer.com/Text-mining-and-visualization-using-VOSviewer)
+* [asis](http://www.asis.org/Publications/ARIST/vol39ZhuFigures.html)
+* [noumentalia](http://www.noumentalia.de/news/visual-text-analytics-using-semantic-networks-and-interactive-3d-visualization/)
 
 ---
-### The Issue with dimensionality in Volume rendering  *02/02/2015*
+### The Issue with dimensionality in Volume rendering
+* *02/02/2015*
+
 Ive noticed in my search for Text visualizations that there is almost nothing in
 the way of Volume Rendered Text. That is, nobody has taken some text, stuffed
 the data into a 3D grid, and rendered it using typical Volume Rendering
@@ -76,7 +78,9 @@ representing the relationships found within a document, or set of documents.
 Still, why cant we do the same thing but as a volume instead?
 
 
-### The Issue with data PreProcessing data  *02/02/2015*
+### The Issue with data PreProcessing data
+* *02/02/2015*
+
 Obviously its going to be necessary to preprocess the data in SOME way shape, or
 form. Questions I am asking myself however are having to do with what **types**
 of preprocessing steps do I want to perform. For that matter, what types of NLP
