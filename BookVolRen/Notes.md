@@ -1,14 +1,14 @@
 ### Progress...
-![alt text](Progress/01.png) ![alt text](Progress/02.png) ![alt text](Progress/03.png)
+![](Progress/01.png) ![](Progress/02.png) ![](Progress/03.png)
 
 ### Questions I am currently asking myself
 * What kind of preprocessing should I be doing?
-..- That is, should I remove **stop words** or keep them?
-..- Is white space important within the visualization? If only for filling cells within the grid?
+  - That is, should I remove **stop words** or keep them?
+  - Is white space important within the visualization? If only for filling cells within the grid?
 * What if God was one of us?
 * What sort of NLP analysis should I be performing?
-..- Named-entity recognition seems appealing, if only as a means of tracking who says what to whom
-....- But I need to ensure the locations within the text itself are maintained. Otherwise, whats the point?
+  - Named-entity recognition seems appealing, if only as a means of tracking who says what to whom
+    - But I need to ensure the locations within the text itself are maintained. Otherwise, whats the point?
 * Sentiment Analysis is attractive, but I need to come up with a metric for filtering said sentiments. I dont want the whole document to be Red (negative) and Green (positive). That would defeat the point
 * Is this an appropriate method of representing Text data?
 
@@ -37,13 +37,12 @@
 
 ---
 ### Images of Interest (Those that _inspire_ or at least encourage me to _inquire_)
-* StoryFlow
-* ![alt text](Images/448767229_640.jpg)
-* Annotated StoryFlow
-* ![alt text](Images/LordoftheRings_HighRes.jpg)
-* [The xkcd comic which inspired StoryFlow](http://xkcd.com/657/large/)
-* A Sweet visualization from [nodus labs](www.noduslabs.com)
-* ![alt text](Images/tumblr_ltxs699Rcq1r4u08do1_1280.jpg)
+* Hover over the image for details
+![StoryFlow](Images/448767229_640.jpg)
+![Annotated StoryFlow](Images/LordoftheRings_HighRes.jpg)
+[The xkcd comic which inspired StoryFlow](http://xkcd.com/657/large/)
+A Sweet visualization from [nodus labs](www.noduslabs.com)
+![](Images/tumblr_ltxs699Rcq1r4u08do1_1280.jpg)
 
 ---
 ### Some really sweet blogs and links to cool text based visualizations
