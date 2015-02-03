@@ -29,9 +29,8 @@
 * _Might want to get on that..._
 
 ---
-### Images of Interest
-#### Those that _inspire_ or at least encourage me to _inquire_
-* ![alt text](Images/448767229_640.jpg)
+### Images of Interest (Those that _inspire_ or at least encourage me to _inquire_)
+* ![Story Flow!](Images/448767229_640.jpg)
 * ![alt text](Images/LordoftheRings_HighRes.jpg)
 * ![alt text](Images/tumblr_ltxs699Rcq1r4u08do1_1280.jpg)
 
