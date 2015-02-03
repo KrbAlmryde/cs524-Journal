@@ -11,7 +11,7 @@ Visualization and Visual Analytics II:  This project is an online research journ
 
 ### Weekly Readings
 * Week 3
-  *[Shneiderman 2007](Wk3/Shneiderman2007.txt)
+  * [Shneiderman 2007](Wk3/Shneiderman2007.txt)
 * Week 4
-  *[Munzner 2008](Wk4/Munzner2008.txt)
-  *[Munzner 2009](Wk4/Munzner2009.txt)
+  * [Munzner 2008](Wk4/Munzner2008.txt)
+  * [Munzner 2009](Wk4/Munzner2009.txt)
