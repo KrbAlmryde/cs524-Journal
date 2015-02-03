@@ -1,3 +1,15 @@
+### Questions I am currently asking myself
+* What kind of preprocessing should I be doing?
+..- That is, should I remove **stop words** or keep them?
+..- Is white space important within the visualization? If only for filling cells within the grid?
+* What if God was one of us?
+* What sort of NLP analysis should I be performing?
+..- Named-entity recognition seems appealing, if only as a means of tracking who says what to whom
+....- But I need to ensure the locations within the text itself are maintained. Otherwise, whats the point?
+* Sentiment Analysis is attractive, but I need to come up with a metric for filtering said sentiments. I dont want the whole document to be Red (negative) and Green (positive). That would defeat the point
+* Is this an appropriate method of representing Text data?
+
+---
 ### Papers to read
 * [166.full.pdf](Papers/166.full.pdf)
 * [01173155.pdf](Papers/01173155.pdf)
@@ -12,18 +24,19 @@
 * [taln-recital2013_volume3.pdf](Papers/taln-recital2013_volume3.pdf)
 * [Yafeng-VAST.pdf](Papers/Yafeng-VAST.pdf)
 
+---
+### Papers Read (With links to discussions)
+* _Might want to get on that..._
+
+---
 ### Images of Interest
 #### Those that _inspire_ or at least encourage me to _inquire_
 * ![alt text](Images/448767229_640.jpg)
 * ![alt text](Images/LordoftheRings_HighRes.jpg)
+* ![alt text](Images/tumblr_ltxs699Rcq1r4u08do1_1280.jpg)
 
-### Papers Read (With links to discussions)
-* _Might want to get on that..._
-
-
-### The Issue with dimensionality in Volume rendering:
-* 02/02/2015
-
+---
+### The Issue with dimensionality in Volume rendering  * 02/02/2015
 Ive noticed in my search for Text visualizations that there is almost nothing in
 the way of Volume Rendered Text. That is, nobody has taken some text, stuffed
 the data into a 3D grid, and rendered it using typical Volume Rendering
@@ -37,7 +50,11 @@ representing the relationships found within a document, or set of documents.
 Still, why cant we do the same thing but as a volume instead?
 
 
-### The Issue with data PreProcessing data:
+### The Issue with data PreProcessing data  * 02/02/2015
+Obviously its going to be necessary to preprocess the data in SOME way shape, or
+form. Questions I am asking myself however are having to do with what **types**
+of preprocessing steps do I want to perform. For that matter, what types of NLP
+analyses should I be doing? What do I care about,
 
 
 
