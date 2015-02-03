@@ -1,7 +1,3 @@
-### Progress...
-![](Progress/01.png)
-![](Progress/02.png)
-![](Progress/03.png)
 
 ### Questions I am currently asking myself
 * What kind of preprocessing should I be doing?
@@ -19,7 +15,7 @@
 * _Nothing yet..._
 
 ---
-### Papers to read
+### Papers I am reading
 * [166.full.pdf](Papers/166.full.pdf)
 * [01173155.pdf](Papers/01173155.pdf)
 * [06691709.pdf](Papers/06691709.pdf)
@@ -35,7 +31,7 @@
 
 ---
 ### Papers Read (With links to discussions)
-* _Might want to get on that..._
+* _Still working on that..._
 
 ---
 ### Images of Interest (Those that _inspire_ or at least encourage me to _inquire_)
@@ -50,7 +46,7 @@ A Sweet visualization from [nodus labs](www.noduslabs.com)
 * [The xkcd comic which inspired StoryFlow](http://xkcd.com/657/large/)
 * [noduslabs](http://noduslabs.com/)
 * [textexture](http://textexture.com/index.php)
-* [perso](http://perso.ens-lyon.fr/adrien.barbaresi/blog/?p=1157)
+* [Adrien Barbaresi](http://perso.ens-lyon.fr/adrien.barbaresi/blog/?p=1157)
 * [datamining](http://datamining.typepad.com/data_mining/dataviz/)
 * [meatballwiki](http://meatballwiki.org/wiki/TextVisualization)
 * [searchuserinterfaces](http://searchuserinterfaces.com/book/sui_ch10_visualization.html)
@@ -77,7 +73,6 @@ good reason for this. Relational network graphs are a superior way of
 representing the relationships found within a document, or set of documents.
 Still, why cant we do the same thing but as a volume instead?
 
-
 ### The Issue with data PreProcessing data
 * *02/02/2015*
 
@@ -87,5 +82,9 @@ of preprocessing steps do I want to perform. For that matter, what types of NLP
 analyses should I be doing? What do I care about and want to preserve, and what
 can I get rid of?
 
+### Progress...
+![](Progress/01.png)
+![](Progress/02.png)
+![](Progress/03.png)
 
 
