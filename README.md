@@ -13,6 +13,6 @@ generate new research topics.
 
 ### Weekly Readings
 * Week 3
-  * [Shneiderman 2007](Wk3/Shneiderman2007.txt)
+  * [Shneiderman 2007](Wk3/Shneiderman2007.md)
 * Week 4
   * [Munzner 2008](Wk4/Munzner2008.md)

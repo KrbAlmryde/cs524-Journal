@@ -104,19 +104,7 @@ structure is effectively arbitrary, and the danger is that we begin to pick up
 on patterns and clustering that looks intriguing but is actually an artifact of
 the arrangement of the data itself.
 
-#### Follow-up to question of dimensionality
-Fuck 3D! Rather, keep the data in 2D, making it easier to keep the dimensions
-square than cubed without filling the holes in the grid with zeros.
-
-The idea here would be to identify some feature which could be converted to a
-magnitude. Then we can do this:
-![3D Histogram](http://www.larssono.com/musings/movie_lengths/3dhistogram.jpg)
-After some smoothing of course...
-
-Could we generate an algorithm that, when given a set of features, can output
-a histogram?
-
-
+---
 ### The Issue with data PreProcessing data
 * *02/02/2015*
 
