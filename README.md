@@ -5,7 +5,7 @@ generate new research topics.
 
 ---
 ### Project Specific Journals
-* [Volume Rendering Text](TextRendering/Notes.md)
+* [TextRendering](TextRendering/Notes.md)
   * Source code [here](BookVolRen/src)
 * [NiftiViewer](NiftiViewer/Notes.md)
   * Source code [here](https://github.com/KrbAlmryde/NiftiViewer)
