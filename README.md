@@ -15,4 +15,4 @@ generate new research topics.
 * Week 3
   * [Shneiderman 2007](Wk3/Shneiderman2007.txt)
 * Week 4
-  * [Munzner 2008](Wk4/Munzner2008.txt)
+  * [Munzner 2008](Wk4/Munzner2008.md)
