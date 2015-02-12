@@ -16,3 +16,5 @@ generate new research topics.
   * [Shneiderman 2007](Wk3/Shneiderman2007.md)
 * Week 4
   * [Munzner 2008](Wk4/Munzner2008.md)
+* Week 5
+  * [Sedlmair 2012](Wk5/Sedlmair2012.md)
