@@ -1,0 +1,86 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1171" measuredH="720" mockupW="829" mockupH="683">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="342" y="37" w="829" h="683" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3D%20Brain%20View%20+%20Time%21%0Ahttp%3A//niftiviewer.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="342" y="109" w="829" h="417" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LineChart" x="342" y="526" w="829" h="124" measuredW="187" measuredH="175" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TabBar" x="342" y="526" w="829" h="169" measuredW="175" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <tabVPosition>bottom</tabVPosition>
+        <text>Brain%2C%20C1%2C%20C2%2C%20C3</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="342" y="650" w="828" h="-1" measuredW="100" measuredH="16" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>42</value>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="1002" y="118" w="163" h="193" measuredW="150" measuredH="267" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Brain%0AC1%0A-%20Color%20%0A-%20Model%0A-%20Opacity%0AC2%0AC3</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="1083" y="235" w="74" h="-1" measuredW="100" measuredH="16" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="1083" y="201" w="74" h="-1" measuredW="74" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filename...</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ColorPicker" x="1083" y="173" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::RadioButton" x="1059" y="148" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>On/Off</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::RadioButton" x="1053" y="257" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>On/Off</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::RadioButton" x="1053" y="283" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>On/Off</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::RadioButton" x="1059" y="120" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>On/Off</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::VRule" x="609" y="526" w="-1" h="124" measuredW="10" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::VRule" x="893" y="526" w="-1" h="124" measuredW="10" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::VRule" x="691" y="526" w="-1" h="124" measuredW="10" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>13576743</color>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::HCurly" x="403" y="459" w="706" h="52" measuredW="200" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text>Time%20%0A1%2C%202%2C%203...N</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
