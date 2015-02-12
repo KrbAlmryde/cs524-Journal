@@ -49,9 +49,6 @@
 * Nothing yet...
 
 ---
-### Images of Interest (Those that _inspire_ or at least encourage me to _inquire_)
-
----
 ### Some really sweet blogs and links to cool text based visualizations
 * [Slice:Drop](https://github.com/slicedrop/slicedrop.github.com)
 * [daniel haehn](http://danielhaehn.com/)
