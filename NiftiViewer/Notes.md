@@ -47,6 +47,7 @@
 * *Hänel, C., Pieperhoff, P., Hentschel, B., Amunts, K., & Kuhlen, T. (2014). Interactive 3D visualization of structural changes in the brain of a person with corticobasal syndrome. Frontiers in Neuroinformatics, 8(May), 42. doi:10.3389/fninf.2014.00042*
   * [Reflection](Papers/Hanel2014.mdown)
   * [Paper](Papers/Frontiers in neuroinformatics - Hanel et al.pdf)
+
 ---
 ### Some really sweet blogs and links to cool text based visualizations
 * [Slice:Drop](https://github.com/slicedrop/slicedrop.github.com)
