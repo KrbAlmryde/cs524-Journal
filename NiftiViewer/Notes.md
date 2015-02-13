@@ -14,8 +14,6 @@
 ---
 ### Papers in the queue
 
-* *Hänel, C., Pieperhoff, P., Hentschel, B., Amunts, K., & Kuhlen, T. (2014). Interactive 3D visualization of structural changes in the brain of a person with corticobasal syndrome. Frontiers in Neuroinformatics, 8(May), 42. doi:10.3389/fninf.2014.00042*
-
 * *Wong, C., Oliveira, M. C. F., & Minghim, R. (2013). Multidimensional Projections to Explore Time-Varying Multivariate Volume Data. 2013 XXVI Conference on Graphics, Patterns and Images, D, 107–114. doi:10.1109/SIBGRAPI.2013.24*
 
 * *Jang, Y., Ebert, D. S., & Gaither, K. (2012). Time-varying data visualization using functional representations. IEEE Transactions on Visualization and Computer Graphics, 18(3), 421–33. doi:10.1109/TVCG.2011.54*
@@ -46,8 +44,9 @@
 
 ---
 ### Papers Read (With links to discussions)
-* Nothing yet...
-
+* *Hänel, C., Pieperhoff, P., Hentschel, B., Amunts, K., & Kuhlen, T. (2014). Interactive 3D visualization of structural changes in the brain of a person with corticobasal syndrome. Frontiers in Neuroinformatics, 8(May), 42. doi:10.3389/fninf.2014.00042*
+  * [Reflection](Papers/Hanel2014.mdown)
+  * [Paper](Papers/Frontiers in neuroinformatics - Hanel et al.pdf)
 ---
 ### Some really sweet blogs and links to cool text based visualizations
 * [Slice:Drop](https://github.com/slicedrop/slicedrop.github.com)
