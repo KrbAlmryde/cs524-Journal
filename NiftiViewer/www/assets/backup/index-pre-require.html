@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <title>3D Brain View + Time</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+
+    <!-- Load Libraries and Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/lib/require.js" data-main="../main"></script>
+
+</head>
+<!--<body style="margin:50px; padding:0px;" onload="run()">-->
+<body style="margin:50px; padding:0px;">
+    <!--<div id="droparea" style="padding: 20px; border: dashed 5px #888; text-align: center;">-->
+        <!--Drag a Nifti file here or use file selection field.<br />-->
+        <!--<input type="file" id="filesupload" multiple />-->
+        <!--<input type="button" id="resetbtn" value="Reset" />-->
+    <!--</div>-->
+
+    <div id="container"></div>
+    <div id="nii" style="width: 1300px; height: 1000px; float: left; background-color: black"></div>
+    <div id="info"><a href="http://threejs.org" target="_blank">three.js</a> webgl - 3D Brain View + Time - particles</div>
+
+
+    <!--<script src="external/Detector.js"></script>  &lt;!&ndash; For Making sure we have WebGL support &ndash;&gt;-->
+    <!--<script src="external/jdataview.js"></script>  &lt;!&ndash; For loading binary data &ndash;&gt;-->
+    <!--<script src="external/jquery-2.1.1.js"></script>  &lt;!&ndash; For JQuery awesomeness &ndash;&gt;-->
+    <!--<script src="external/nifti.js"></script>   &lt;!&ndash; A nifti loading format &ndash;&gt;-->
+
+    <!--&lt;!&ndash; Libraries: Minified &ndash;&gt;-->
+    <!--<script src="external/d3.min.js"></script>  &lt;!&ndash; Doing D3 stuffs... &ndash;&gt;-->
+    <!--<script src="external/xtk.min.js"></script>  &lt;!&ndash; For Medical image loading: TBR &ndash;&gt;-->
+    <!--<script src="external/three.min.js"></script>  &lt;!&ndash; For Graphics abstractions &ndash;&gt;-->
+    <!--<script src="external/stats.min.js"></script>  &lt;!&ndash; Tool to assist ThreeJs&ndash;&gt;-->
+    <!--<script src="external/require.min.js"></script>  &lt;!&ndash; Will probably get rid of this soon &ndash;&gt;-->
+    <!--<script src="external/sylvester.min.js"></script>  &lt;!&ndash; For Vector and Matrix stuffs &ndash;&gt;-->
+
+    <!-- Code -->
+    <!--<script src="framework/Nifti.js"></script>-->
+    <!-- <script src="framework/NiiCloud.js"></script>-->
+    <!-- <script>
+        /*
+            Ive shamelessly stolen lot of this code from the following application:
+
+            http://algoholic.eu/NiftiViewer
+
+            #sorrynotsorry
+            #academicthuglife
+            #krba
+        */
+
+        function loadNifti(file) {
+            reader = new FileReader();
+            reader.onload = function(evt) {
+                displayNifti(evt.target.result);
+            };
+            if (typeof ArrayBufer !== undefined) {
+                reader.readAsArrayBuffer(file);
+            } else {
+                reader.readAsBinaryString(file);
+            }
+        }
+
+        $(document).ready(function() {
+            var droparea = $('#droparea').get(0);
+            var filesupload = $('#filesupload').get(0);
+
+            filesupload.addEventListener('change', function() {
+                for (var i = 0; i < this.files.length; i++) {
+                    loadNifti(this.files[i]);
+                }
+            }, false);
+            droparea.addEventListener('dragleave', function(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+            }, false);
+            droparea.addEventListener('dragenter', function(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+            }, false);
+            droparea.addEventListener('dragover', function(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+            }, false);
+            droparea.addEventListener('drop', function(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                loadNifti(evt.dataTransfer.files[0]);
+            }, false);
+
+//            $('#resetbtn').click(function() {
+//                SectionView.reset();
+//                $('.section_ui').remove();
+//            });
+        });
+    </script> -->
+
+</body>
+
+</html>

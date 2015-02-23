@@ -1,0 +1,1275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"text",
+				"textShape	statement"
+			],
+			[
+				"Ky",
+				"Kyle_MPRAGE"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"Adj",
+				"AdjMatrix"
+			],
+			[
+				"la",
+				"layerGroups"
+			],
+			[
+				"layerGrou",
+				"layerGroupName"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"start",
+				"startCity"
+			],
+			[
+				"brea",
+				"breadthFirstSearch"
+			],
+			[
+				"ve",
+				"vertex"
+			],
+			[
+				"num",
+				"numNodes"
+			],
+			[
+				"lev",
+				"Level"
+			],
+			[
+				"level",
+				"printLevelSpacingStart"
+			],
+			[
+				"heap",
+				"heaplvl5"
+			],
+			[
+				"hea",
+				"heaplvl5"
+			],
+			[
+				"cur",
+				"curLvl"
+			],
+			[
+				"get",
+				"getLevels"
+			],
+			[
+				"Clou",
+				"Cloud-Rain"
+			],
+			[
+				"cit",
+				"cityName"
+			],
+			[
+				"elas",
+				"elapsedArray"
+			],
+			[
+				"clac",
+				"calculateTimeNode"
+			],
+			[
+				"ela",
+				"elapsedNode"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"quan",
+				"quantities"
+			],
+			[
+				"cla",
+				"calculateTimeArray"
+			],
+			[
+				"inser",
+				"insertNode"
+			],
+			[
+				"star",
+				"startTime"
+			],
+			[
+				"clock",
+				"clock_t"
+			],
+			[
+				"begin",
+				"beginTime"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"p",
+				"pNodes"
+			],
+			[
+				"tre",
+				"treeNode"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"comm",
+				"community"
+			],
+			[
+				"F",
+				"FarNorthSide"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"Sout",
+				"SouthSide"
+			],
+			[
+				"West",
+				"WestSide"
+			],
+			[
+				"read",
+				"readlines	function"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"poin",
+				"pointLight"
+			],
+			[
+				"Po",
+				"pointLight"
+			],
+			[
+				"sp",
+				"sphereMaterial"
+			],
+			[
+				"base",
+				"buildDataset"
+			],
+			[
+				"Freq",
+				"FreqDist"
+			],
+			[
+				"pre",
+				"preprocessing"
+			],
+			[
+				"classif",
+				"classification"
+			],
+			[
+				"constru",
+				"constructFeatureIndex"
+			],
+			[
+				"filt",
+				"filterFeatureFrequency"
+			],
+			[
+				"feature",
+				"featureDist"
+			],
+			[
+				"token",
+				"tokenNegation"
+			],
+			[
+				"twi",
+				"twokenizer"
+			],
+			[
+				"emoji",
+				"emojiRE"
+			],
+			[
+				"class",
+				"class	class"
+			],
+			[
+				"cc",
+				"cc	shortcut - case class"
+			],
+			[
+				"case",
+				"case	case"
+			],
+			[
+				"for",
+				"for	for - Yield"
+			],
+			[
+				"useCl",
+				"useCluster4"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"pr",
+				"prn-str"
+			],
+			[
+				"prn",
+				"prn-str"
+			],
+			[
+				"stim",
+				"stimListPath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/html.sublime-build",
+	"command_palette":
+	{
+		"height": 373.0,
+		"selected_items":
+		[
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"anaconda disable",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"anaconda d",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"dis",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disabl",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"ANAconda: li",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"mar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"PY",
+				"Set Syntax: Python"
+			],
+			[
+				"cm",
+				"Set Syntax: CMake"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"F",
+				"Format Code"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"f",
+				"Format Code"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"code",
+				"Format Code"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"For",
+				"Format Code"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packare",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"JSO",
+				"Set Syntax: JSON"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"snipp",
+				"Snippet: Tabular"
+			],
+			[
+				"snippet",
+				"Snippet: Chapter"
+			],
+			[
+				"sca",
+				"Set Syntax: Scala Improved"
+			],
+			[
+				"scala",
+				"Set Syntax: Scala"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python Improved"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"scal",
+				"Set Syntax: Scala Improved"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"ov",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"scala ",
+				"Set Syntax: Scala Improved"
+			],
+			[
+				"Scala",
+				"Set Syntax: Scala"
+			],
+			[
+				"Pyth",
+				"Set Syntax: Python Improved"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scaa",
+				"SublimeREPL: Scala"
+			],
+			[
+				"re",
+				"SublimeREPL: Scala"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"gl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"obj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"syn",
+				"Set Syntax: C"
+			],
+			[
+				"synt C",
+				"Set Syntax: C"
+			],
+			[
+				"objc",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"snippet	",
+				"Snippet: Do While Loop"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"repl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"pow",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"synsh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"py	",
+				"Set Syntax: Python"
+			],
+			[
+				"ma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"M",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"symat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/css",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/assets",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/lib"
+	],
+	"file_history":
+	[
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/main.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/index.html",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/js/config.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/js/app.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/js/three.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/app.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/app/main.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/app.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW3/RightHereRightNow.github.io/javascripts/main.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs251/Lab6/main.cpp",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/.YouAreWhatYouEat/src/Main.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs335/.metadata/.plugins/com.python.pydev.analysis/python_v1_bm109oo8jsa5gnqmc06ekl12p/v1_indexcache/mhlib_aspo.v1_indexcache",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs533/HW5/HW5/Include/glm/gtc/matrix_access.hpp",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs227/Matrix.java",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/Notes.md",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic4/MyNetCDF.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic4/Kalmryde_NetCDF_Class.py",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs594/topic3/Readme.txt",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs594/topic3/Kalmryde_NetCDF_Main.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic3/Kalmryde_NetCDF_Class.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic2/ncDump.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic3/Topic3B.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic3/MyNetCDF.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic2/NetCDF_dump.txt",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/Notes/basic.html",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA130/ISTA130v1.0/BankAccount.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs227/Boggle/Boggle.java",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW2/bicyclerace.github.io/webapp/js/external-libraries/topojson.v1.min.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs251/Demos/Stack/StackToConvertInfixToPostfixInClass.cpp",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW1/index-topo.html",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW2/bicyclerace.github.io/assets/timeOfDatPatterns.mp4",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA130/ISTA130v1.0/taleOf2.txt",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW2/bicyclerace.github.io/webapp/styles/ToolTileViewController.css",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs372/ass3/TEAM",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/Papers/Hänel2014.mdown",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/GoodMovieOrBad/src/GoodMovieBad/LexiconRatingDetector.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/GoodMovieOrBad/src/GoodMovieBad/PerformanceMetric.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/GoodMovieOrBad/src/GoodMovieBad/FeatureExtractor.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/GoodMovieOrBad/src/GoodMovieBad/NaiveBayes.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/GoodMovieOrBad/src/GoodMovieBad/package.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/GoodMovieOrBad/src/GoodMovieBad/Perceptron.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal-bc/NiftiViewer/Notes.md",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/GoodMovieOrBad/src/GoodMovieBad/ClassifierRatingDetector.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/NSAInterview/src/main/WekaExample.scala",
+		"/Users/krbalmryde/Dropbox/Class-Projects/ISTA555/ExtractPeopleAndOrg/src/NSAInterview/Entity.scala",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/Wk5/Sedlmair2012.md",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/.gitignore",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/README.md",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/Wk5/Notes.txt",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs424/HW1/index-district.html",
+		"/Users/krbalmryde/Dropbox/Work-Projects/CheckHealth/CheckHealth.github.io/css/external/awesome-markers-2.0.1/leaflet.awesome-markers.css",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs424/HW1/index.html",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs424/HW1/chicago.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs424/HW1/Sweet Home Chicago.htm",
+		"/Users/krbalmryde/Dropbox/Work-Projects/CheckHealth/CheckHealth.github.io/js/external/awesome-markers-2.0.1/leaflet.awesome-markers.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW3/RightHereRightNow.github.io/APP/framework/init.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW3/RightHereRightNow.github.io/APP/index.html",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs424/HW3/RightHereRightNow.github.io/APP/framework/controller.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/Papers/Multidimensional Projections to Explore Time-Varying Multivariate Volume Data.md",
+		"/Users/krbalmryde/Dropbox/class-projects/cs424/HW3/RightHereRightNow.github.io/APP/framework/init.js",
+		"/Users/krbalmryde/Dropbox/class-projects/cs424/HW3/RightHereRightNow.github.io/APP/framework/controller.js",
+		"/Users/krbalmryde/Dropbox/Work-Projects/CheckHealth/MapView.github.io/css/external/leaflet-0.7.3/leaflet.css",
+		"/Users/krbalmryde/Dropbox/Work-Projects/CheckHealth/MapView.github.io/css/external/leaflet-0.7.3/leaflet-src.js",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/NiftiViewer/Notes.md",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/Wk5/Notes.txt",
+		"/Users/krbalmryde/Dropbox/Work-Projects/CheckHealth/MapView/cookZips.txt",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs594/topic3/Topic3B.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/topic3/numpy_exercises.py",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/Wk5/Notes:",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/src/framework/Nifti.js",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/src/index.html",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/src/assets/index_4D.html",
+		"/Users/krbalmryde/.bash_aliases",
+		"/Users/krbalmryde/.bash_functions",
+		"/Users/krbalmryde/.bash_profile",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs594/niiPy/xtk-example.html",
+		"/Users/krbalmryde/Dropbox/Work-Projects/CheckHealth/EVL-CHECK_Deliverables.txt",
+		"/Users/krbalmryde/Dropbox/Work-Projects/CheckHealth/Meeting_notes_02-06-2015.txt",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/topic2/NetCDF_dump.txt",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs594/topic2/extraCredit_NetCDF_dump.txt",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/topic2/Read_Write_NetCDF_data.py",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs594/topic2/Read and Write NetCDF data.txt",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/niiPy/niftiRenderer.py",
+		"/Users/krbalmryde/Dropbox/Code-Projects/KrbAlmryde.github.io/projects/BrainChoropleth/index.html",
+		"/Users/krbalmryde/Dropbox/class-projects/cs424/HW1/chicago.js",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/topic3/MyNetCDF.py",
+		"/Users/krbalmryde/Library/Enthought/Canopy_64bit/User/lib/python2.7/site-packages/netCDF4.so",
+		"/Users/krbalmryde/Desktop/WebGL Export.html",
+		"/Users/krbalmryde/Downloads/Visit_1.stl",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/TextRendering/Notes.md",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/README.md",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/Wk4/Munzner2008.md",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/Wk3/Shneiderman2007.md",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/Wk4/Munzer2008.md",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/BookVolRen/Notes.md",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs594/topic3/MyNetCDF.py",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/topic2/ncDump.py",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA116/RData/UsingR/Meta/nsInfo.rds",
+		"/Users/krbalmryde/Dropbox/class-projects/cs335/.metadata/.plugins/com.python.pydev.analysis/python_v1_bm109oo8jsa5gnqmc06ekl12p/v1_indexcache/numpy._import_tools_58ib.v1_indexcache",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/BookVolRen/src/SynestheticRenderer.py",
+		"/Users/krbalmryde/Dropbox/class-projects/cs251/lab10/Solution.cpp",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/topic2/readPLOT3D.py",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/Wk4/Munzer2008.md",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/AnalyzeHappiness/Project1.py",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/AnalyzeHappiness/doc/project1_key.py",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/src/Project4.py",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/BookVolRen/Notes.md",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/BookVolRen/StoryVolRen.enex",
+		"/Users/krbalmryde/Dropbox/class-projects/cs524/Journal/BookVolRen/Notes.txt",
+		"/Users/krbalmryde/Dropbox/Shared-Projects/Kyle_Lorenzo/CHECK_Mockup",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA130/names.txt",
+		"/Users/krbalmryde/Downloads/dti.obj",
+		"/Users/krbalmryde/Downloads/atlas-labels.txt.gz",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/data/one-grams.txt",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/BookVolRen/src/AtlasShrugged.txt",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/src/useful.py",
+		"/Users/krbalmryde/Dropbox/class-projects/cs251/lecture/SyncTest.txt",
+		"/Users/krbalmryde/Dropbox/class-projects/cs533/doc/paintdemo2/glew/auto/extensions/GL_SGIX_ycrcb",
+		"/Users/krbalmryde/Dropbox/Class-projects/ISTA555/YouAreWhatYouEat/src/MetaCorpra.py",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/niiPy/SynestheticRenderer.py",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/AnalyzeHappiness/project1_tweets.txt",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/GoodMovieOrBad/docs/project2_key.py",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/docs/Project 4 Report.txt",
+		"/Users/krbalmryde/Library/Application Support/Sublime Text 3/Packages/User/newJournal.sublime-snippet",
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/docs/Project4Notes.txt",
+		"/Users/krbalmryde/Dropbox/class-projects/cs251/PMp4.cpp",
+		"/Users/krbalmryde/Dropbox/class-projects/cs594/topic3/numpy_exercises.py",
+		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/niiPy/SynestheticRenderer.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"chicago_health.json",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"lib",
+			"lib/",
+			"potholesArray",
+			"crimeContainer",
+			"updateMarkers",
+			"pointsOfInterestArray",
+			"*",
+			"chiMesh",
+			"../img/awesome-markers",
+			"img",
+			"context",
+			"updateMarkers",
+			"divvyArray",
+			"modeName",
+			"PLACESOFINTERESTLAYER",
+			"dataManager",
+			"this.pointsOfInterestArray",
+			"pointsOfInterestArray",
+			"getBusStopDataFromFile",
+			"mapCenter",
+			"this.map",
+			"map",
+			"self",
+			"images",
+			"image",
+			"imshow",
+			"dataMean",
+			"mean",
+			"npRand8000",
+			"r1",
+			"opacity",
+			".opacity =",
+			"rois[0]",
+			".caption = \"c1t1\";",
+			"scene.children",
+			" = new X.volume();",
+			"0.2",
+			".visable = true;",
+			"volumeRendering",
+			".visable",
+			".volumeRendering = true;",
+			".volumeRendering",
+			".file",
+			"file",
+			".push(",
+			"var ",
+			".file",
+			".",
+			".file",
+			"window.",
+			".file = ",
+			"pid",
+			"html",
+			"ROI3",
+			"ROI2",
+			"ROI1",
+			"ROI0",
+			"= new X.volume();",
+			"root_grp",
+			"06092714",
+			"*",
+			"Progress/0",
+			"print",
+			"perlin",
+			"Gradient[iy][ix]",
+			"perlin",
+			"print",
+			"product",
+			"100",
+			":,:,:",
+			"nlons",
+			"temp",
+			"lat",
+			"ongitudes",
+			"latitudes",
+			"nlats",
+			"temp",
+			"lon",
+			"lat",
+			"ncfile",
+			"attribute",
+			": return",
+			"self, )",
+			"- ",
+			"fname",
+			"alt text",
+			"..",
+			"...",
+			"..",
+			"buildMatrix",
+			"dataImporter",
+			"difflib",
+			"FreqDist",
+			"Segmenter",
+			"TweetParser",
+			"WhitespaceTokenizer",
+			"\"\"\"",
+			"\"\"",
+			"from useful",
+			"stop_words",
+			"useLexical",
+			"sData",
+			"#",
+			"cData",
+			"textShape",
+			"cData",
+			"add",
+			"removeSimilar",
+			"buildDataset",
+			"$",
+			"###",
+			"-",
+			"- ",
+			"target",
+			"FreqDist",
+			"random",
+			"mri_shape",
+			"-1,",
+			"mri_data",
+			"ax",
+			"p.hi",
+			"p.bar",
+			"histo(",
+			"histo",
+			".",
+			"                ",
+			"[a-z][A-z]",
+			"\\w"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"hub",
+			"Hub",
+			"\"district\":",
+			"community",
+			"\"side\":\"central\",(\"slug\":)(\"rogers_park\"|\"loop\")",
+			",\"side\":\"central\",$1",
+			"secondary",
+			"\"secondary\"",
+			"\"neighborhood\"",
+			"\"community\"",
+			"\"side\"",
+			"\n,\"",
+			";\\n",
+			"\"\"\"\n",
+			"\n",
+			"\n\n",
+			"\n",
+			"\n\n",
+			"\n",
+			"\n\n",
+			"",
+			"\n",
+			"\\n",
+			"\n",
+			"",
+			"\n",
+			"\n\n\n",
+			"\n",
+			"",
+			"\n",
+			"!Audio\\DING.wav,\"0,0,0\",700",
+			"/",
+			"",
+			"2",
+			"",
+			".wav",
+			"2.wa",
+			"	",
+			"    ",
+			"\\t",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"project": "NiftiJS.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main.j",
+				"cs424/HW3/RightHereRightNow.github.io/javascripts/main.js"
+			],
+			[
+				"basic",
+				"cs424/Notes/basic.html"
+			],
+			[
+				"topo",
+				"cs424/HW2/bicyclerace.github.io/webapp/js/external-libraries/topojson.v1.min.js"
+			],
+			[
+				"nc",
+				"cs594/topic2/NetCDF_dump.txt"
+			],
+			[
+				"nif",
+				"cs594/niiPy/niftiRenderer.py"
+			],
+			[
+				"syn",
+				"cs524/Journal/BookVolRen/src/SynestheticRenderer.py"
+			],
+			[
+				"data/one-grams.txt",
+				"ISTA555/YouAreWhatYouEat/data/one-grams.txt"
+			],
+			[
+				"project1",
+				"ISTA555/AnalyzeHappiness/Project1.py"
+			],
+			[
+				"useful",
+				"ISTA555/YouAreWhatYouEat/src/useful.py"
+			],
+			[
+				"project4",
+				"ISTA555/YouAreWhatYouEat/src/Project4.py"
+			],
+			[
+				"lab1",
+				"cs251/Lab13/lab13.txt"
+			],
+			[
+				"overb",
+				"cs251/HW1/Prog1Overboard.cpp"
+			],
+			[
+				"dic",
+				"cs251/HW5/HW5/dictionary.txt"
+			],
+			[
+				"uber",
+				"cs424/HW3/RightHereRightNow.github.io/APP/framework/markers/UberMarker.js"
+			],
+			[
+				"yelp",
+				"cs424/HW3/RightHereRightNow.github.io/APP/framework/markers/YelpMarker.js"
+			],
+			[
+				"cta",
+				"cs424/HW3/RightHereRightNow.github.io/APP/framework/markers/CTAMarker.js"
+			],
+			[
+				"databa",
+				"cs424/HW3/RightHereRightNow.github.io/APP/data/database.js"
+			],
+			[
+				"sol",
+				"cs251/lab10/Solution.cpp"
+			],
+			[
+				"solu",
+				"cs251/lab10/Solution.cpp"
+			],
+			[
+				"uiweath",
+				"cs424/HW2/bicyclerace.github.io/webapp/js/controllers/ui/UIWeatherViewController.js"
+			],
+			[
+				"uiwea",
+				"cs424/HW2/bicyclerace.github.io/webapp/styles/UIWeatherViewController.css"
+			],
+			[
+				"us.",
+				"cs424\\Notes\\Choropleth\\us.json"
+			],
+			[
+				"step",
+				"cs424\\HW1\\step-7.html"
+			],
+			[
+				"uk",
+				"cs424\\HW1\\uk.json"
+			],
+			[
+				"chi",
+				"cs424\\HW1\\data\\chicago_health2.json"
+			],
+			[
+				"dataf",
+				"cs424\\HW1\\backup\\dataFix.html"
+			],
+			[
+				"chica",
+				"cs424\\HW1\\data\\chicago_health.json"
+			],
+			[
+				"chea",
+				"cs424\\HW1\\chicago_health.json"
+			],
+			[
+				"chicagogeocrs84",
+				"cs424\\HW1\\data\\chicagoGEOcrs84.json"
+			],
+			[
+				"home4",
+				"cs533/HW4/HW4/homework4.cpp"
+			],
+			[
+				"homewo5",
+				"cs533/HW5/HW5/homework5.cpp"
+			],
+			[
+				"detec",
+				"ISTA516/HW5/js/Detector.js"
+			],
+			[
+				"1",
+				"ISTA516/HW5/1st.html"
+			],
+			[
+				"sort",
+				"cs227/SortTest.java"
+			],
+			[
+				"home",
+				"cs533/HW3/homework3.cpp"
+			],
+			[
+				"hw1",
+				"cs533/HW1/hw1.cxx"
+			],
+			[
+				"demo",
+				"cs533/HW1/paintdemo_mac/demo.cxx"
+			],
+			[
+				"geo",
+				"ISTA555/Docs/twitter_code/GeoTag.scala"
+			],
+			[
+				"emo",
+				"ISTA555/YouAreWhatYouEat/data/Emoji-FreqDist.txt"
+			],
+			[
+				"emoj",
+				"ISTA555/YouAreWhatYouEat/data/etc/emoji-codes.txt"
+			],
+			[
+				"use",
+				"ISTA555/YouAreWhatYouEat/src/useful.py"
+			],
+			[
+				"project2",
+				"ISTA555/GoodMovieOrBad/docs/project2_key.py"
+			],
+			[
+				"project4.",
+				"ISTA555/YouAreWhatYouEat/src/Project4.py"
+			],
+			[
+				"proj2",
+				"ISTA555/GoodMovieOrBad/docs/project2_key.py"
+			],
+			[
+				"project4re",
+				"ISTA555/YouAreWhatYouEat/docs/Project 4 Report.txt"
+			],
+			[
+				"proj4",
+				"ISTA555/YouAreWhatYouEat/src/Project4.py"
+			],
+			[
+				"perspouse",
+				"ISTA555/NSAInterview/docs/project3_data/per_spouse.test"
+			],
+			[
+				"movi",
+				"ISTA555/GoodMovieOrBad/src/MovieSentiment.scala"
+			],
+			[
+				"slice",
+				"osx/examples/niftiViewer/niftiViewer/Slices.mm"
+			],
+			[
+				"pro",
+				"src/Program.cpp"
+			],
+			[
+				"pr",
+				"src/Program.cpp"
+			],
+			[
+				"in",
+				"osx/Includes.hpp"
+			],
+			[
+				"be",
+				"src/Behavior.cpp"
+			],
+			[
+				"co",
+				"osx/CocoaGL.mm"
+			],
+			[
+				"ren",
+				"osx/RendererOSX.mm"
+			],
+			[
+				"ma",
+				"niftiViewer/niftiViewer/Main.mm"
+			],
+			[
+				"prog",
+				"src/Program.cpp"
+			],
+			[
+				"",
+				"osx/CocoaGL.h"
+			],
+			[
+				"progr",
+				"src/Program.cpp"
+			],
+			[
+				"mri",
+				"Utilities/.Utilities.backup/MRI.py"
+			],
+			[
+				"java",
+				"Scripts/Java/JavaBatRecursion/JavaBat_Recursion.java"
+			],
+			[
+				"ass2",
+				"CLASS/cs372/ass2.hs"
+			],
+			[
+				"javab",
+				"Scripts/Java/JavaBatRecursion/JavaBat_Recursion.java"
+			],
+			[
+				"pig",
+				"Scripts/CLOJURE/piglatin.clj"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Class-Projects/Class.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

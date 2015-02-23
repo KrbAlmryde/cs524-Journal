@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="d3" level="application" />
     <orderEntry type="library" name="XTK" level="application" />
+    <orderEntry type="library" name="Threejs" level="application" />
+    <orderEntry type="library" name="requireJS" level="application" />
   </component>
 </module>

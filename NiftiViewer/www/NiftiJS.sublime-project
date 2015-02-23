@@ -1,0 +1,40 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "css"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "assets"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"app",
+				"lib"
+			],
+			"follow_symlinks": true,
+			"path": "js"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "js/app"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "js/lib"
+		},
+		{
+			"follow_symlinks": true,
+			"path": ".",
+			"folder_exclude_patterns":
+			[
+				"assets",
+				"css",
+				"js"
+			]
+		}
+	]
+}
