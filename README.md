@@ -5,6 +5,7 @@ generate new research topics.
 
 ---
 ### Project Specific Journals
+* [SciVis 2015](https://github.com/KrbAlmryde/SciVis2015)
 * [TextRendering](TextRendering/Notes.md)
   * Source code [here](BookVolRen/src)
 * [NiftiViewer](NiftiViewer/Notes.md)

@@ -1,20 +1,60 @@
-### Questions I am currently asking myself
-* What kind of preprocessing should I be doing?
-  - That is, should I remove **stop words** or keep them?
-  - Is white space important within the visualization? If only for filling cells within the grid?
-* What if God was one of us?
-* What sort of NLP analysis should I be performing?
-  - Named-entity recognition seems appealing, if only as a means of tracking who says what to whom
-    - But I need to ensure the locations within the text itself are maintained. Otherwise, whats the point?
-* Sentiment Analysis is attractive, but I need to come up with a metric for filtering said sentiments. I dont want the whole document to be Red (negative) and Green (positive). That would defeat the point
-* Is this an appropriate method of representing Text data?
+## A Proposal
+
+#### Pre-Processing steps:
+1. *Perform Sentiment Analysis with the following Dimensions in mind:*
+  * Positive  |  Good,   X
+  * Neutral |  Neutral, Y
+  * Negative |  Bad,    Z
+  - NLTK measures the polarity of the sentiment, which determines the degree of sentiment, but it only looks at positive <==> negative. We will need to come up with a way to split these into dimensions.
+
+2. *Sentiment classification and analysis on the following levels:*
+  - Whole Document Level    2D
+    - Chapter Level           3D
+      - Paragraph Level         3D -> 4D ? xy(Paragraph), z(Chapter/ParagraphS),
+        - Sentence level
+          - Word Level
+            - Character level?
+
+3. *What will I train my classifier on?*
+  - Presently I am not all together concerned about what classification algorithm we use…at least not yet.
+  - Ideally, an existing training corpora would be a fine 1st pass. Check out [](http://nltk-trainer.readthedocs.org/en/latest/) for some pre-trained classifiers
+  - Movie Reviews and Twitter data seems like an obvious first pass, though depending on the source data, I might want to look into something trained on less contemporary data sources
+
+4. *Data organization*
+  1. Organize data dimensions based on Good, Neutral, Bad sentiment. These measurements would be our orthogonal planes using MRI as an example, and would be synonymous with xyz. That is, Good == X axis, Neutral == Y, Bad == Z
+    - This decision is arbitrary for the most part, and could be changed
+  2. Depending on the size of the data, compose data at the chapter level, paragraph level, or maybe even sentence level. That is to say, each Slice would consist of an entire chapter/paragraph. Chapter and paragraphs are the most obvious choice in this instance as they have an inherent dimensionality about them.
+    - It would be nice if I had words per page or similar type of information, that would be yet another method of slice composition
 
 ---
-### Questions I have found answers to, or I have given up on
-* _Nothing yet..._
+### Data Formatting
+There is a great Python Module designed specifically for writting data to the new VTK XML format called [PyEVTK](https://bitbucket.org/pauloh/pyevtk) created by Paulo Herrera. The XML format itself is very powerful and flexible, which reduces the complexity of the problem greatly!
+
+
+---
+### Proposed Visualizations:
+1. Using the RGB vectors as direction vectors, create vector Glyphs, hedgehog-style
+2. Point cloud of sentiment?
+3. Volume Rending / Ray casting / Slice based, some kind of color compositing/transfer function/LUT
+4. Streamlines Tensors. These would be the DTI tracktography images you see.
+  - A clustering method would have to be done before generating the streamlines, in order to determine the connected streamlines. This would give solid tensor lines.
+  - I could then threshold this so we only saw the most well connected etc.
+  - Or do seed based generations...the possibilities are endless!
+5. Marching Cubes/ Isosurface volume rendering
+
+---
+### Progress...
+![](Progress/SentiWord.png)
+![](Progress/SentiWord1.png)
+![](Progress/SentiWord2.png)
+![](Progress/SentiWord3.png)
+
+---
+### Questions I am currently asking myself
 
 ---
 ### Papers I am reading
+<!--
 * [166.full.pdf](Papers/166.full.pdf)
 * [01173155.pdf](Papers/01173155.pdf)
 * [06691709.pdf](Papers/06691709.pdf)
@@ -27,16 +67,16 @@
 * [taln-recital2013_volume3.pdf](Papers/taln-recital2013_volume3.pdf)
 * [Yafeng-VAST.pdf](Papers/Yafeng-VAST.pdf)
 
----
+-\-\-
 ### Papers Read (With links to discussions)
 
 
----
+-\-\-
 ### Related Commentary to in-class articles
 * Shneiderman 2007
 * Munzer 2008
 
----
+-\-\-
 ### Images of Interest (Those that _inspire_ or at least encourage me to _inquire_)
 * Hover over the image for details
 ![3D Histogram](http://www.larssono.com/musings/movie_lengths/3dhistogram.jpg)
@@ -46,9 +86,11 @@
 A Sweet visualization from [nodus labs](www.noduslabs.com)
 ![](Images/tumblr_ltxs699Rcq1r4u08do1_1280.jpg)
 ![PenAndPaperNotes.pdf](Images/PenAndPaperNotes.png)
+ -->
 
 ---
 ### Some really sweet blogs and links to cool text based visualizations
+* [The importance of Neutral Class in Sentiment Analysis](http://blog.datumbox.com/the-importance-of-neutral-class-in-sentiment-analysis/)
 * [xkcd.com/657:](http://xkcd.com/657/large/) The xkcd comic which inspired StoryFlow
 * [timeviz.net:](http://timeviz.net/) This is a fabulous resource on Temporal Visualizations
 * [textvis.net:](http://textvis.lnu.se/) Great collection of Text based visualizations
@@ -67,8 +109,9 @@ A Sweet visualization from [nodus labs](www.noduslabs.com)
 * [maxstation: This one was very insightfull](http://area.autodesk.com/blogs/maxstation/n101_maxscript_creating_histograms_from_a_textfile)
 
 ---
+<!--
 ### Treating a literary novel as a Temporal Dataset
-* 02/04/2015
+* *02/04/2015*
 
 It occurred to me that my projects, the NiftiViewer and BookRenderer are
 actually similarly related problems. Both are investigating ways in which to
@@ -81,7 +124,7 @@ project!
 
 That said, can this technique be applied to
 
----
+-\-\-
 ### The Issue with dimensionality in Volume rendering
 * *02/02/2015*
 
@@ -104,7 +147,7 @@ structure is effectively arbitrary, and the danger is that we begin to pick up
 on patterns and clustering that looks intriguing but is actually an artifact of
 the arrangement of the data itself.
 
----
+-\-\-
 ### The Issue with data PreProcessing data
 * *02/02/2015*
 
@@ -117,12 +160,4 @@ can I get rid of?
 I am beginning to feel as though there should be 'multiple datasets', or rather,
 multiple iterations of the same dataset. This is kind of obvious of course. What
 I mean here is multiple layers or the same data.
-
-
-
-### Progress...
-![](Progress/01.png)
-![](Progress/02.png)
-![](Progress/03.png)
-
-
+ -->

@@ -263,13 +263,41 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "NiftiJS.sublime-project",
+			"settings":
+			{
+				"buffer_size": 488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app/geometry.js",
+			"settings":
+			{
+				"buffer_size": 1733,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/User/html.sublime-build",
 	"command_palette":
 	{
-		"height": 373.0,
+		"height": 305.0,
 		"selected_items":
 		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
 			[
 				"py",
 				"Set Syntax: Python"
@@ -345,10 +373,6 @@
 			[
 				"form",
 				"Format Code"
-			],
-			[
-				"js",
-				"Set Syntax: JSON"
 			],
 			[
 				"code",
@@ -584,14 +608,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/css",
-		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/assets",
-		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js",
-		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app",
-		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/lib"
 	],
 	"file_history":
 	[
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/assets/index-pre-require.html",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/app.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/app1.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/lib/nifti.js",
+		"/Users/krbalmryde/Downloads/sylvester-0-1-3/sylvester.src.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/camera.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/material.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/stats.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/container.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/scene.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/app/renderer.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/NiftiJS.sublime-project",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/config.js",
+		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/NiftiViewer/www/js/main.js",
 		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/main.js",
 		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/index.html",
 		"/Users/krbalmryde/Dropbox/Class-Projects/cs524/Journal/NiftiViewer/www/js/config.js",
@@ -705,21 +738,7 @@
 		"/Users/krbalmryde/Dropbox/class-projects/ISTA130/names.txt",
 		"/Users/krbalmryde/Downloads/dti.obj",
 		"/Users/krbalmryde/Downloads/atlas-labels.txt.gz",
-		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/data/one-grams.txt",
-		"/Users/krbalmryde/Dropbox/Class-projects/cs524/Journal/BookVolRen/src/AtlasShrugged.txt",
-		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/src/useful.py",
-		"/Users/krbalmryde/Dropbox/class-projects/cs251/lecture/SyncTest.txt",
-		"/Users/krbalmryde/Dropbox/class-projects/cs533/doc/paintdemo2/glew/auto/extensions/GL_SGIX_ycrcb",
-		"/Users/krbalmryde/Dropbox/Class-projects/ISTA555/YouAreWhatYouEat/src/MetaCorpra.py",
-		"/Users/krbalmryde/Dropbox/class-projects/cs594/niiPy/SynestheticRenderer.py",
-		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/AnalyzeHappiness/project1_tweets.txt",
-		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/GoodMovieOrBad/docs/project2_key.py",
-		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/docs/Project 4 Report.txt",
-		"/Users/krbalmryde/Library/Application Support/Sublime Text 3/Packages/User/newJournal.sublime-snippet",
-		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/docs/Project4Notes.txt",
-		"/Users/krbalmryde/Dropbox/class-projects/cs251/PMp4.cpp",
-		"/Users/krbalmryde/Dropbox/class-projects/cs594/topic3/numpy_exercises.py",
-		"/Users/krbalmryde/Dropbox/Class-Projects/cs594/niiPy/SynestheticRenderer.py"
+		"/Users/krbalmryde/Dropbox/class-projects/ISTA555/YouAreWhatYouEat/data/one-grams.txt"
 	],
 	"find":
 	{
@@ -739,6 +758,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"$",
+			"camera",
+			"color",
+			"\",",
+			"scene",
 			"lib",
 			"lib/",
 			"potholesArray",
@@ -861,12 +885,7 @@
 			"ax",
 			"p.hi",
 			"p.bar",
-			"histo(",
-			"histo",
-			".",
-			"                ",
-			"[a-z][A-z]",
-			"\\w"
+			"histo("
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -925,8 +944,98 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "NiftiJS.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/app/geometry.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],

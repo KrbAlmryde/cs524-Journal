@@ -243,7 +243,7 @@ define(["jdataview", "sylvester"], function(jDataView, syl) {
         var ofs = (vv[0] * dim[2] + vv[1]) * dim[3] + vv[2];
         var d = this.cdata[ofs];
         return d;
-    }
+    };
 
     return Nifti;
 });
