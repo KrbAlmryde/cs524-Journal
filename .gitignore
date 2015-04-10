@@ -3,3 +3,4 @@ data/*
 *.dict
 *.vtr
 SentiWordNet
+.DS_Store
