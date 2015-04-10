@@ -4,3 +4,4 @@ data/*
 *.vtr
 SentiWordNet
 .DS_Store
+*.vt[a-z]
