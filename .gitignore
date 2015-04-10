@@ -1,2 +1,5 @@
 *.nii*
 data/*
+*.dict
+*.vtr
+SentiWordNet
